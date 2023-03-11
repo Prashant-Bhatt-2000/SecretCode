@@ -1,5 +1,8 @@
 # SecretCode
-This is a tool to encrypt or decrypt the text
+This is a tool to encrypt or decrypt the text.
+
+For encryption and decrytion - I have used cryptography module for encryption and decryption.
+For Gui - I have used tkinter
 
 _________________________________________________________________________
 
